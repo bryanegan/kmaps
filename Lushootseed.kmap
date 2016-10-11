@@ -1,0 +1,21 @@
+// Salish.kmap for Unicode text editor Yudit
+// 2005-Oct-7th bryane@cac.washington.edu improvements, ideas welcome
+
+"~~=0x030C"	// hopefully add hacek to symbol
+"lL=0x019B 0x02BC" // tl ejective 
+"s~=0x0161"	// s wedge
+"S~=0x0160"	// capital s wedge
+"c~=0x010D"	// c wedge
+"C~=0x010C"	// capital c wedge
+"jj=0x01F0"	// j wedge (couldn't find capital unicode entry)
+"ee=0x0259"	// schwa (epenthetic in lushootseed)
+"hh=0x0294"	// glottal stop
+"zz=0x1DBB"	// raised z, hmm no unicode correspondance
+"ww=0x02B7"	// raised w, use with whichever character
+"ll=0x0142"	// barred l
+"``=0x02BC"	// add glottalization to letter
+"`~=0x0315"	// add glottalization to letter, spaced differently if first isn't viewable
+".-=0x00B7"	// middle dot, used in stories from Lushootseed Reader for super long vowels
+"`'=0x0300"	// grave accent, for the Lushootseed Texts stress marks
+"'`=0x0301"	// acute accent, for the Lushootseed Texts stress marks
+"->=0x2192"	// rightward arrow, used in Lushootseed Texts

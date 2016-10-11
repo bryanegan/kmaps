@@ -1,0 +1,37 @@
+// Navajo.kmap for the Unicode text editor Yudit
+// 2004-4-11 bryan@zipcon.net - improvements welcome
+
+"h'=0x02BC"  // glottal stop
+"L`=0x0141"  // capital voiceless lateral
+"l`=0x0142"  // lowercase voiceless lateral
+
+"n`=0x0144" // high tone /n/
+"N`=0x0143" // uppercase
+
+"a`=0x00E1" // high tone 
+"A`=0x00C1" // high tone 
+"a~=0x0105" // nasal 
+"A~=0x0104" // nasal 
+"a~`=0x0061 0x0301 0x0328" // a nasal high tone
+"A~`=0x0041 0x0301 0x0328" // a nasal high tone
+
+"i`=0x00ED" // high tone 
+"I`=0x00CD" // high tone 
+"i~=0x012F" // nasal 
+"I~=0x012E" // nasal 
+"i~`=0x0069 0x0301 0x0328" // a nasal high tone
+"I~`=0x0049 0x0301 0x0328" // a nasal high tone
+
+"e`=0x00E9" // high tone 
+"E`=0x00C9" // high tone 
+"e~=0x0119" // nasal 
+"E~=0x0118" // nasal 
+"e~`=0x0065 0x0301 0x0328" // a nasal high tone
+"E~`=0x0045 0x0301 0x0328" // a nasal high tone
+
+"o`=0x00F3" // high tone 
+"O`=0x00D3" // high tone 
+"o~=0x01EB" // nasal 
+"O~=0x01EA" // nasal 
+"o~`=0x006F 0x0301 0x0328" // a nasal high tone
+"O~`=0x004F 0x0301 0x0328" // a nasal high tone
